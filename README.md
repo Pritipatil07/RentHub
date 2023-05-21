@@ -17,6 +17,3 @@
 5. **`Add to Cart Page`** for adding items to your Cart.
 
 
-## 🚀 Check out the website here! 👉 
-
-
